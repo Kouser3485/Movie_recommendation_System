@@ -1,4 +1,4 @@
-Certainly! Below is a concise and properly formatted README for your movie recommendation system code:
+
 # Movie Recommendation System
 
 Welcome to the Movie Recommendation System! This Python script recommends movies based on user input using natural language processing (NLP) techniques and collaborative filtering.
